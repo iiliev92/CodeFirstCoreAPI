@@ -1,0 +1,12 @@
+\\VBOXSVR\Coding\CodeFirstCoreAPI\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+\\VBOXSVR\Coding\CodeFirstCoreAPI\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+\\VBOXSVR\Coding\CodeFirstCoreAPI\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+\\VBOXSVR\Coding\CodeFirstCoreAPI\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+\\VBOXSVR\Coding\CodeFirstCoreAPI\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+\\VBOXSVR\Coding\CodeFirstCoreAPI\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+\\VBOXSVR\Coding\CodeFirstCoreAPI\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+\\VBOXSVR\Coding\CodeFirstCoreAPI\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
+\\VBOXSVR\Coding\CodeFirstCoreAPI\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.runtimeconfig.json
+\\VBOXSVR\Coding\CodeFirstCoreAPI\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.runtimeconfig.dev.json
+\\VBOXSVR\Coding\CodeFirstCoreAPI\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.genruntimeconfig.cache
+\\VBOXSVR\Coding\CodeFirstCoreAPI\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csprojAssemblyReference.cache
